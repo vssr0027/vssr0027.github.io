@@ -1,0 +1,25 @@
+html {
+    background-color:black
+}
+nav {
+    display: flex
+    
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.header {
+    text-align: center;
+}
+
+.video {
+    align-items: center;
+    margin: 0 auto;
+    width: 560px;
+    height: 340px;
+    
+}
