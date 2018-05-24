@@ -2,7 +2,8 @@
 <html>
 <head>
   <link rel="stylesheet" href="/css/site.css">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p6wRu60q63M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		
+<body>
+	raspivid -o - -t 0 -hf -fps 30 -b 6000000 | avconv -re -ar 44100 -ac 2 -acodec pcm_s16le -f s16le -ac 2 -i /dev/zero -f h264 -i - -vcodec copy -acodec aac -ab 128k -g 50 -strict experimental -f flv rtmp://a.rtmp.youtube.com/live2/qp67-6vj4-fjgj-czmm
+	
 </body>
 </html>
