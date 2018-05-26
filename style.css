@@ -12,6 +12,11 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-family: 'Amatic SC', cursive;
+    color: grey;
+    font-size:30px;
+
 .header {
     text-align: center;
 }
