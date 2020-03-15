@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111960169-1"></script>
+
+  <script>
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag(){dataLayer.push(arguments);}
+
+    gtag('js', new Date());
+
+
+
+    gtag('config', 'UA-111960169-1');
+
+  </script>
+
+  <meta charset="UTF-8">
+
+  <title>The Revealed Word Tabernacle</title>
+
+
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,900" rel="stylesheet">
+
+  <link rel="stylesheet" href="bootstrap.processed.min.css">
+
+  <link rel="stylesheet" href="style.processed.min.css">
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+  <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+      <span class="navbar-toggler-icon"></span>
+
+    </button>
+
+    <a class="navbar-brand" href="#">RWT</a>
+
+
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+      <ul class="navbar-nav mr-auto">
+
+        <li class="nav-item active">
+
+          <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+
+        </li>
+
+        <li class="nav-item">
+
+          <a class="nav-link" href="/contact.html">Contact</a>
+
+        </li>
+
+      </ul>
+
+    </div>
+
+  </nav>
+
+
+
+  <header class="site-header py-5 mb-4">
+
+    <div class="container">
+
+      <h1 class="display-4">The Revealed Word Tabernacle</h1><br/>
+
+      <p class="lead">“To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.”</p>
+
+    </div>
+
+  </header>
+
+
+
+  <div class="container">
+
+
+
+    <p>The Revealed Word Tabernacle is located in Hanover Ontario, CANADA. We are a small assembly pastored by Bro.Dan R. Olsen that believes God sent a prophet in this the final church age. Bro. William Marrion Branham was that prophet vindicated by the
+
+      Holy Spirit and sent to bring a message of redemption to the elect Lady, The Bride of Christ.</p>
+
+
+
+    <div class="row">
+
+      <div class="col">
+
+        <div class="card">
+
+          <div class="card-block">
+
+            <h4 class="card-title">Sharefile</h4>
+
+            <p class="card-text">Click below to access the MP# archive</p>
+
+            <a href="https://therevealedwordtabernacle.sharefile.com/Authentication/Login" class="btn btn-primary" target="_blank">MP3</a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="col">
+
+        <div class="card">
+
+          <div class="card-block">
+
+            <h4 class="card-title">Live Video</h4>
+
+            <p class="card-text">Click below to access the live video</p>
+
+            <a href="http://therevealedwordtabernaclemedia.com/live.php" class="btn btn-primary" target="_blank">Watch Live</a>
+
+            </button>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="col">
+
+        <div class="card">
+
+          <div class="card-block">
+
+            <h4 class="card-title">Archive Video</h4>
+
+            <p class="card-text">Click below to access the video archive</p>            
+
+            <a href="https://therevealedwordtabernacle.vids.io/" class="btn btn-primary" target="_blank">Archive Video</a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div><br/>
+
+    <p class='password'>It is not our intention to produce an internet ministry, therefore the media links are password protected. If you attend the local   assembly and require the password, visit the <a href="/contact.html"> Contact page</a> to request the information via email.</p>
+
+
+
+  </div>
+
+
+
+  <!--<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+
+    <div class="modal-dialog" role="document">
+
+      <div class="modal-content">
+
+        <div class="modal-header">
+
+          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+
+            <span aria-hidden="true">&times;</span>
+
+          </button>
+
+        </div>
+
+        <div class="modal-body">
+
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia repellat ea inventore, recusandae neque hic cum delectus quisquam impedit quos eligendi consequatur iure? Consectetur placeat mollitia illum, eveniet, voluptate consequuntur?</p>
+
+        </div>
+
+        <div class="modal-footer">
+
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+          <button type="button" class="btn btn-primary">Save changes</button>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>-->
+
+
+
+  <footer class="site-footer mt-4">
+
+    <div class="container py-4">
+
+      <div class="row">
+
+        <div class="col-sm-4">
+
+          <!--<h5>Get started</h5>
+
+          <ul class="list-unstyled">
+
+            <li><a href="#">Home</a></li>
+
+            <li><a href="#">Sign up</a></li>
+
+            <li><a href="#">Downloads</a></li>
+
+          </ul>
+
+        </div>-->
+
+          <div class="col-sm-4">
+
+            <!--<h5>About us</h5>
+
+          <ul class="list-unstyled">
+
+            <li><a href="#">Company Information</a></li>
+
+            <li><a href="#">Contact us</a></li>
+
+            <li><a href="#">Reviews</a></li>
+
+          </ul>-->
+
+          </div>
+
+          <div class="col-sm-4">
+
+            <!--<h5>Support</h5>
+
+          <ul class="list-unstyled">
+
+            <li><a href="#">FAQ</a></li>
+
+            <li><a href="#">Help desk</a></li>
+
+            <li><a href="#">Forums</a></li>
+
+          </ul>-->
+
+          </div>
+
+          <div class="col-sm-3">
+
+            <div class="social-networks">
+
+              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+
+              <a href="#" class="google"><i class="fa fa-google-plus"></i></a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="footer-copyright py-4">
+
+        <p><strong>2018</strong> RWT</p>
+
+      </div>
+
+  </footer>
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+
+  <script src="scripts/libs/bootstrap/bootstrap.js"></script>
+
+
+
+</body>
+
+
+
+</html>
